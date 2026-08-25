@@ -26,3 +26,17 @@ For the full list of codes:
 ---
 
 ## Study Endpoints
+### Muscle Weakness
+- People identified with a diagnosis code for [muscle weakness](https://github.com/MomentumData/Momentum-Data-Codelists/tree/7b8c674fd7e4498d21127439397af9fa79a1910b/Conditions/Muscle%20Weakness) in primary care.
+
+### Dysphagia
+- People identified with a diagnosis code for [dysphagia](https://github.com/MomentumData/Momentum-Data-Codelists/tree/7b8c674fd7e4498d21127439397af9fa79a1910b/Conditions/Dysphagia) or [percutaneous endoscopic gastrostomy feedings](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d60d644da07256610eee96222e503c6dd03b4ec0/Treatments/Percutaneous%20Gastrostomy%20Feedings%20(PEG)) in primary care.
+
+### Joint Pain
+- People identified with a diagnosis code for [joint pain](https://github.com/MomentumData/Momentum-Data-Codelists/tree/7b8c674fd7e4498d21127439397af9fa79a1910b/Conditions/Joint%20Pain) in primary care.
+
+### Fatigue
+- People identified with a diagnosis code for [fatigue](https://github.com/MomentumData/Momentum-Data-Codelists/tree/7b8c674fd7e4498d21127439397af9fa79a1910b/Conditions/Fatigue) in primary care.
+
+### Elevated Alanine Aminotransferase (ALT)
+- People with [ALT measurement](https://github.com/MomentumData/Momentum-Data-Codelists/tree/7b8c674fd7e4498d21127439397af9fa79a1910b/Measurements/Elevated%20Alanine%20Transaminase%20(ALT)) over 70 IU/L recorded in primary care.
